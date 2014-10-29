@@ -1,0 +1,30 @@
+{
+    "name": "murnieza/coding-standards",
+    "description": "Strict PHPCS standard for PSR-2 code",
+    "keywords": [
+        "phpcs",
+        "coding",
+        "standard",
+        "psr",
+        "symfony"
+    ],
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "FOXX team",
+            "homepage": "http://www.nfq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~1"
+    },
+    "target-dir": "Symfony2",
+    "dist": {
+        "type": "git",
+        "url": "git@github.com:murnieza/Symfony2-coding-standard.git"
+    }
+}
