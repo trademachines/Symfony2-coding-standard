@@ -22,9 +22,5 @@
     "require-dev": {
         "squizlabs/php_codesniffer": "~1"
     },
-    "target-dir": "Symfony2",
-    "dist": {
-        "type": "git",
-        "url": "git@github.com:murnieza/Symfony2-coding-standard.git"
-    }
+    "target-dir": "Symfony2"
 }
