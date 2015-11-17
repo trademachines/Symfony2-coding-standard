@@ -1,5 +1,5 @@
 {
-    "name": "murnieza/coding-standards",
+    "name": "trademachines/coding-standards",
     "description": "Strict PHPCS standard for PSR-2 code",
     "keywords": [
         "phpcs",
@@ -9,11 +9,15 @@
         "symfony"
     ],
     "type": "library",
-    "license": "proprietary",
+    "license": "MIT",
     "authors": [
         {
-            "name": "FOXX team",
-            "homepage": "http://www.nfq.com"
+            "name": "David Joos",
+            "email": "david.joos@escapestudios.com"
+        },
+        {
+            "name": "Community contributors",
+            "homepage": "https://github.com/escapestudios/Symfony2-coding-standard/graphs/contributors"
         }
     ],
     "require": {
